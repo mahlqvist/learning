@@ -1,7 +1,7 @@
 # The Four Pillars of Learning
 
-Develop a **growth mindset**, which is the belief that intelligence can be developed,
-opposite to a **fixed mindset**, which is the belief qualities are fixed traits and therefore cannot change. People with fixed mindset is making excuses to avoid challanges that could make them look dumb, and they'll give up as soon as they start struggling.
+**Develop a growth mindset**, which is the belief that intelligence can be developed,
+opposite to a **fixed mindset**, which is the belief qualities are fixed traits and therefore cannot change. People with fixed mindset is making excuses to avoid challanges that could make them look dumb, and they'll give up as soon as they start struggling. 
 
 With a growth mindset **everyting is a game**, and you improve constantly, exciting about every challange and obstacle standing in your way. Everything is trainable, and with enough effort and strategy, you can get better at anything. 
 
@@ -16,6 +16,6 @@ With a growth mindset **everyting is a game**, and you improve constantly, excit
 
 Make sure to understand the **fundemantal principals** before you go into details, because knowledge is constantly being updated but the fundametals could last throughout a career. So start with the basics and know your "why" before you dig deeper into a subject.
 
-You do not work the hardest or put in the most hours, because **efficiency trumps grit**. Being busy seems like a good thing in modern society, but in reality, being busy just shows lack of time management skills. Efficient learning is not about putting in the extra hours, it's about being smart with your time, about using the right strategies and methods and learning the right topics.
+**Efficiency trumps grit** is about being smart with your time, about using the right strategies and methods to learn the right topics. It's not about putting in the extra hours, or work the hardest, because being busy, which seems like a good thing in modern society, just show lack of time management skills. 
 
 ![Four Pillars of Learning](./img/four_pillars.png)
