@@ -60,7 +60,7 @@ The best way to get past any barrier is to come at it from a different direction
 
 **Simplicity** is one of the hardest things in the world to do right. The Japanese kenshi (people who do kendo) are almost always way better than the Western kenshi. Why? It's because they spent years and years **working on basics**, whereas us Americans tend to be a bit more impatient. Eventually, this catches up to you and you and you can no longer catch up with everyone else.
 
-The kendo **8th dan** test, has a less than 1% pass rate, and [this video]((https://www.tofugu.com/japan/kendo/) is really inspiring to watch. People who are trying to achieve this rank are trying again and again to pass the test. Why keep taking the test even though they keep failing? Because kendo is life, and failure is a part of that. If you're **passionate about what you do**, you'll never be able to make it perfect. You can either let that drive you insane, or you can let that drive you for your entire life.
+The kendo **8th dan** test, has a less than 1% pass rate, and [this video](https://www.tofugu.com/japan/kendo/) is really inspiring to watch. People who are trying to achieve this rank are trying again and again to pass the test. Why keep taking the test even though they keep failing? Because kendo is life, and failure is a part of that. If you're **passionate about what you do**, you'll never be able to make it perfect. You can either let that drive you insane, or you can let that drive you for your entire life.
 
 **Spaced repetion** means going back and repeat what you've learnig over a long period of time, not going through everything or re-reading everything, just the important parts or concepts. You should have gaps of increasing length, because each time you do a recall at the sweet spot of forgetting, the memory’s decay slows down. 
 
@@ -79,6 +79,6 @@ My goals for 2020:
         - **Learn how to learn**: to actually be able to master computing
 - **Learn Karate**: because I love the idea of combining body and mind
   - **Eat healthy**: to be able to train
-  - **Work out**: especially leg muscles for the kicks
-  - **Get the splits**: just a childhood dream, and it also is great for better kicks
+  - **Work out**: especially leg muscles for better kicks
+  - **Get the splits**: just a childhood dream, and it also is great for kicks
     - **Stretch**: to be able to the splits
