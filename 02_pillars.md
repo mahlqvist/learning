@@ -9,7 +9,7 @@ With a growth mindset **everyting is a game**, and you improve constantly, excit
 
 1. Choose a concept you want to learn about
 2. Pretend you are teaching it to a student in grade 6
-3. Identify gaps in your explanation;  Go back to the source material, to better understand it.
+3. Identify gaps in your explanation, go back to the source material, to better understand it
 4. Review and simplify (optional)
 
 **Trunk based knowledge**, is looking at knowledge as a tree structure and within that structure you start from the roots or the trunks of the tree in order to work your way to the leafs. For example, if you want to learn programming, you might want start with how computers work or why we use them. 

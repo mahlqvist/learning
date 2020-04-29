@@ -29,14 +29,14 @@ Create good **habits** using the four laws of behaviour change:
 
 You need to do it over and over for it to stick, so using a habit tracker app or similar is a good choice. Try **not to break the chain**!
 
-When learning something, **evoke as many senses** as possible, since humans are incredibly good at remembering visual/spatial things. By using storytelling you will make it more memorable then a just reading simple facts. The more the story evoke emotions and senses the better, and the **method of loci** or the **memory palace technique** is a great technique for creating such stories.
+When learning something, **evoke as many senses** as possible, since humans are incredibly good at remembering visual things. By using storytelling you will make it more memorable than just reading simple facts. The more your story evoke emotions and senses the better, and a great technique for creating such stories is the **method of loci** or the **memory palace technique**.
 
-The idea behind **deep work** is to work hard and efficient, in order to learn difficult skills and overcome the obstacles, so that you become valuable to society. When you become valuable to society, passion doesn't matter, because you become so good that they can't ignore you and passion will follow.
+The idea behind **deep work** is to work hard and be efficient, in order to learn difficult skills and overcome the obstacles. That way you can become so good that society can't ignore you, and then passion doesn't matter, because it will follow. 
 
 **Concepts** are high level topics that give you context of what you learn of the world around you.
 **Concepts** are valuable, while **facts** are cheap, because anybody can learn facts, it doesn't require any special power to retain facts. The people that get paid well are respected in their careers, because they have these chunks of knowledge they can connect the dots with and they know the concepts, not only the facts. 
 
-Why, why, never stop ask yourself why, use the **Feynman technique**. You need to practice, you cant just watch, self testing, its unconfortable, but pause and what are the key ideas, summarize. Quiz yourself, what did you just learn. Why did yuu get it wrong, really understand what you did wrong to fix that problem so you can learn from your mistakes.
+Never stop ask yourself why, use the **Feynman technique**, and you need to actually practice, you can't just passively watch somebody else do it. Test youself on what you just learned, even if its uncomfortable, but pause and think about what the key ideas were, and summarize. If you get something wrong, find out why, really understand what you did wrong in order to fix that problem, that way you learn from your mistakes.
 
 Pick a topic and decide what you are going to do the **first 20 hours** to get as far as possible on your journey towards mastery!
 
